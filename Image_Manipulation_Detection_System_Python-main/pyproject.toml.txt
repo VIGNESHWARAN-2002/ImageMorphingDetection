@@ -1,0 +1,13 @@
+name = "token"
+version = "0.0.1"
+authors = [
+  { name="VIGNESHWARAN.V,SATHYANARAYANAN.N", email="vigneshwaranv2002@gmail.com" },
+]
+description = "A package for detecting morphed images"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
